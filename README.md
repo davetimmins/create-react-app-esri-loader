@@ -1,3 +1,5 @@
+This project takes the base create-react-app template and adds the ArcGIS JS API v4.1. It is a simpler version of https://github.com/davetimmins/create-react-app-arcgis as this uses the [esri-loader](https://github.com/tomwayson/esri-loader) module and so doesn't need to have the `npm eject` task run. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
