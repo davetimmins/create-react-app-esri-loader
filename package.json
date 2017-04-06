@@ -2,6 +2,7 @@
   "name": "create-react-app-esri-loader",
   "version": "0.2.0",
   "private": true,
+  "homepage": "https://github.com/davetimmins/create-react-app-esri-loader",
   "devDependencies": {
     "react-scripts": "0.9.5"
   },
