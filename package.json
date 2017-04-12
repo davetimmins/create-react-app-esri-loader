@@ -7,10 +7,10 @@
     "react-scripts": "0.9.5"
   },
   "dependencies": {
-    "esri-loader": "^0.2.0",
-    "esri-loader-react": "^0.1.1",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2"
+    "esri-loader": "^0.3.1",
+    "esri-loader-react": "^0.3.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   },
   "scripts": {
     "start": "react-scripts start",
