@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://davetimmins.com/create-react-app-esri-loader/",
   "devDependencies": {
-    "react-scripts": "1.0.2"
+    "react-scripts": "1.0.5"
   },
   "dependencies": {
     "esri-loader": "^1.0.0",
