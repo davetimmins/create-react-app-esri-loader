@@ -1,14 +1,14 @@
 {
   "name": "create-react-app-esri-loader",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": true,
   "homepage": "https://davetimmins.com/create-react-app-esri-loader/",
   "devDependencies": {
-    "react-scripts": "^1.0.7"
+    "react-scripts": "^1.0.10"
   },
   "dependencies": {
     "esri-loader": "^1.0.0",
-    "esri-loader-react": "^1.0.1-beta-1",
+    "esri-loader-react": "^1.0.1",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
