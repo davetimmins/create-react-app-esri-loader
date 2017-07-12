@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://davetimmins.com/create-react-app-esri-loader/",
   "devDependencies": {
+    "enzyme": "^2.9.1",
     "react-scripts": "^1.0.10"
   },
   "dependencies": {
