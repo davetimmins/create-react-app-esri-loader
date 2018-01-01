@@ -8,7 +8,7 @@ class App extends React.PureComponent {
   render() {
 
     const options = {
-      url: 'https://js.arcgis.com/4.5/'
+      url: 'https://js.arcgis.com/4.6/'
     };
 
     return (
@@ -29,7 +29,6 @@ class App extends React.PureComponent {
               map: new Map({basemap: 'topo'})
             })
           }}
-          onError={error => console.error(error)}
         />
       </div>
     );
